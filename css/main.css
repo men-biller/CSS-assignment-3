@@ -8,13 +8,13 @@ html {
     box-sizing: inherit; /* keep */
 }
 body {
-    font-family: 'Lora', serif;
+    font-family: 'Cambria', serif;
     background: #5598b2; /* keep */
     color: #333; /* keep */
     margin: 0; /* keep */
 }
 h1, h2 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
 #tagline {
     font-style: italic;
